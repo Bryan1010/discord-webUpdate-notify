@@ -1,0 +1,28 @@
+{
+  "name": "discord-webupdate-notify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryan1010/discord-webUpdate-notify.git"
+  },
+  "author": "Bryan Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryan1010/discord-webUpdate-notify/issues"
+  },
+  "homepage": "https://github.com/Bryan1010/discord-webUpdate-notify#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
