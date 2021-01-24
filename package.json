@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/Bryan1010/discord-webUpdate-notify#readme",
   "dependencies": {
-    "discord.js": "^12.5.1",
-    "dotenv": "^8.2.0"
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"

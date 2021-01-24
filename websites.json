@@ -1,12 +1,14 @@
 {
-    "websites":  [
+    "websites": [
         {
-            "url":"https://h3turing.cs.hbg.psu.edu/cmpsc470/index470.html",
-            "hash":""
-        },
-        {
-            "url":"https://h3turing.cs.hbg.psu.edu/cmpsc470/index470.html",
-            "hash":"s"
+            "user": "470: Compilers",
+            "message": "There has been a change detected in Na's 470 homepage",
+            "url": "https://h3turing.cs.hbg.psu.edu/cmpsc470/index470.html",
+            "hash": "D6cfD69YQGy/DpDnem0soXQgOSs=",
+            "hook": {
+                "id": "#### WebHook ID HERE #####",
+                "token": "### WebHook Token Here ####"
+            }
         }
     ]
 }
