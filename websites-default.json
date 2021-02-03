@@ -1,0 +1,24 @@
+{
+    "websites": [
+        {
+            "user": "470: Compilers",
+            "avatar": "https://harrisburg.psu.edu/sites/harrisburg/files/styles/person_headshot/public/na_hyuntae2.jpg?itok=tHedN1VV",
+            "message": "There has been a change detected in the Na 470 homepage",
+            "url": "https://h3turing.cs.hbg.psu.edu/cmpsc470/index470.html",
+            "hash": "MK/yWwpBy+gsR3uftjqndPJ89vs=",
+            "hook": {
+                "url": "webhook URL"
+            }
+        },
+        {
+            "user": "488: Capstone",
+            "avatar": "https://harrisburg.psu.edu/sites/harrisburg/files/styles/person_headshot/public/na_hyuntae2.jpg?itok=tHedN1VV",
+            "message": "There has been a change detected in the Na 488 homepage",
+            "url": "https://h3turing.cs.hbg.psu.edu/cmpsc488_s1/index488.html",
+            "hash": "+evKBSO8wcx+LR4h2PzkKA60I6M=",
+            "hook": {
+                "url": "webhook URL"
+            }
+        }
+    ]
+}

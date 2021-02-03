@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "run": "node index.js",
+    "auto": "node index.js && exit 0",
     "dev": "nodemon index.js"
   },
   "repository": {
@@ -20,7 +21,10 @@
   "homepage": "https://github.com/Bryan1010/discord-webUpdate-notify#readme",
   "dependencies": {
     "axios": "^0.21.1",
-    "discord.js": "^12.5.1"
+    "discord-webhook-node": "^1.1.8",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "node-cron": "^2.0.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
